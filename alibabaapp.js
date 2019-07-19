@@ -1,5 +1,5 @@
 /**
- * @name Alibaba Product Searchh
+ * @name Alibaba Product Search
  * @desc Searches Alibaba.com for a product and checks if the results show up 
  */
 
